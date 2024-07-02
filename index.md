@@ -1,5 +1,7 @@
 ## Skylar Albers ESIIL Stars
 
+![](https://avatars.githubusercontent.com/u/166766965?v=4)
+
 ### Introduction
 Hello! My name is Skylar Albers, and I'm grateful to have the opportunity to introduce myself. I am an enrolled member of the Turtle Mountain Band of Chippewa Tribe and I am also Hunkpapa Lakhota from the Standing Rock Sioux Tribe. I am currently just finishing my first year in the Computer Information Technology program at United Tribes Technical College. I graduted with my Generals in May of 2023 because I had no idea what I wanted to go into, but CIT caught eye so I said why not?! It's been great so far!
 
